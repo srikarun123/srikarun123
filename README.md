@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b> About me 👋</b>
+  <b>About Me 👋</b>
 </p>
 
 <p align="center">
@@ -22,3 +22,13 @@
 <br>
 
 <hr>
+ 🛠️ Tech Stack
+
+| Category | Technologies |
+|:---:|:---|
+| 🎨 **Frontend** | HTML5 · CSS3 · JavaScript · React · Bootstrap |
+| ⚙️ **Backend** | Node.js · Express.js |
+| 🗄️ **Database** | MongoDB · SQL |
+| 💻 **Languages** | Java · Python · C · C++ |
+| 🧠 **Core** | Data Structures & Algorithms · OOP |
+| 🔧 **Tools** | Git · GitHub · VS Code |
