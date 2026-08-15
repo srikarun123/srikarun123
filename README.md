@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="./profile-banner.png" alt="G. Srikarun Profile Banner" width="100%">
+</p>
 
 <!--
 **srikarun123/srikarun123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
