@@ -32,3 +32,49 @@
 | 💻 **Languages** | Java · Python · C · C++ |
 | 🧠 **Core** | Data Structures & Algorithms · OOP |
 | 🔧 **Tools** | Git · GitHub · VS Code |
+
+<hr>
+
+<h2>🚀 Featured Projects</h2>
+
+<h3>🏆 Sports Hub</h3>
+
+<p>
+A sports talent discovery platform designed to connect athletes, coaches,
+scouts, and selectors through digital player profiles, performance insights,
+talent discovery, and communication features.
+</p>
+
+<p>
+<b>Tech:</b> MERN Stack • Analytics • Web Development
+</p>
+
+<hr>
+
+<h3>🛒 Smart Product Decision & Offer Comparison</h3>
+
+<p>
+A Flask-based web application that helps users make better purchasing
+decisions by comparing product prices across multiple e-commerce platforms,
+highlighting the best deals, and providing reviews, side-by-side comparison,
+wishlists, and direct purchase links.
+</p>
+
+<p>
+<b>Tech:</b> Python • Flask • SQLAlchemy • SQLite • HTML • CSS • JavaScript
+</p>
+
+<hr>
+
+<h3>📅 Smart Timetable Generator</h3>
+
+<p>
+A web application that generates timetables based on user requirements,
+reducing the time and effort required to create schedules manually.
+</p>
+
+<p>
+<b>Tech:</b> HTML • CSS • JavaScript
+</p>
+
+<hr>
