@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-banner.png" alt="G. Srikarun" width="100%">
+  <img src="./banner_animated.svg" alt="G. Srikarun" width="100%">
 </p>
 
 <p align="center">
